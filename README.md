@@ -82,7 +82,7 @@ I'm a passionate developer who loves building clean, performant web experiences 
 
 | Project | Description | Stack | Link |
 |---|---|---|---|
-| Teeworld Player Stats Bot | A Discord bot that fetches and displays live player statistics for Teeworlds | Node.js, Discord.js, Express | [BuiltByBit](https://builtbybit.com/creators/xavuren.592272) |
+| Teeworld Player Stats Bot | A Discord bot that fetches and displays live player statistics for Teeworlds | Node.js, Discord.js, Express | Client Project |
 | Stackvio | Co-founding a tech company — currently building the website from the ground up | Next.js, TailwindCSS | Coming Soon |
 
 <p align="center">
