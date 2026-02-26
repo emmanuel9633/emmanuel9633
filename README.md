@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Emmanuel 👋</h1>
 
 <p align="center">
-  <em>Vibe Coder · Full-Stack Developer · UI/UX Enthusiast · Game Dev Explorer</em>
+  <em>Vibe Coder · Full-Stack Developer · UI/UX Enthusiast</em>
 </p>
 
 <p align="center">
@@ -16,7 +16,7 @@ I'm a passionate developer who loves building clean, performant web experiences 
 
 - Currently building and shipping projects with **Next.js**, **Nuxt**, and **Node.js**
 - Exploring **Flutter**, **Expo**, and cross-platform development
-- Passionate about game development with **Unity** & **Unreal Engine**
+- Interested in learning game development with **Unity** & **Unreal Engine**
 - Designing with **Figma** and **Canva**
 - Always vibing with new tech
 
@@ -59,13 +59,11 @@ I'm a passionate developer who loves building clean, performant web experiences 
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 
-### Game Dev & Gaming
-![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
-![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-313131?style=for-the-badge&logo=unrealengine&logoColor=white)
-![nVIDIA](https://img.shields.io/badge/nVIDIA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+### Gaming
 ![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)
 ![Epic Games](https://img.shields.io/badge/Epic%20Games-313131?style=for-the-badge&logo=epicgames&logoColor=white)
 ![Ubisoft](https://img.shields.io/badge/Ubisoft-000000?style=for-the-badge&logo=ubisoft&logoColor=white)
+![nVIDIA](https://img.shields.io/badge/nVIDIA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 
 ## GitHub Stats
 
@@ -78,7 +76,7 @@ I'm a passionate developer who loves building clean, performant web experiences 
 
 | Project | Description | Stack | Link |
 |---|---|---|---|
-| Teeworld Player Stats Bot | A Discord bot that fetches and displays live player statistics for Teeworlds | Node.js, Discord.js, Express | Client Project |
+| Teeworld Player Stats Bot | A Discord bot that fetches and displays live player statistics for Teeworlds | Node.js, Discord.js, Express | [BuiltByBit](https://builtbybit.com/creators/xavuren.592272) |
 | Stackvio | Co-founding a tech company — currently building the website from the ground up | Next.js, TailwindCSS | Coming Soon |
 
 <p align="center">
