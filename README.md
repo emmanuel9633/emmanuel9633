@@ -10,21 +10,17 @@
   </a>
 </p>
 
----
-
-## 🧑‍💻 About Me
+## About Me
 
 I'm a passionate developer who loves building clean, performant web experiences and exploring the intersection of software and gaming. From shipping full-stack apps to experimenting with game engines, I bring energy and creativity to everything I build.
 
-- 🔭 Currently building and shipping projects with **Next.js**, **Nuxt**, and **Node.js**
-- 🌱 Exploring **Flutter**, **Expo**, and cross-platform development
-- 🎮 Passionate about game development with **Unity** & **Unreal Engine**
-- 🎨 Designing with **Figma** and **Canva**
-- ⚡ Always vibing with new tech
+- Currently building and shipping projects with **Next.js**, **Nuxt**, and **Node.js**
+- Exploring **Flutter**, **Expo**, and cross-platform development
+- Passionate about game development with **Unity** & **Unreal Engine**
+- Designing with **Figma** and **Canva**
+- Always vibing with new tech
 
----
-
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Languages & Frameworks
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -71,30 +67,23 @@ I'm a passionate developer who loves building clean, performant web experiences 
 ![Epic Games](https://img.shields.io/badge/Epic%20Games-313131?style=for-the-badge&logo=epicgames&logoColor=white)
 ![Ubisoft](https://img.shields.io/badge/Ubisoft-000000?style=for-the-badge&logo=ubisoft&logoColor=white)
 
----
+## GitHub Stats
 
-## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Emmanuel9633&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Emmanuel's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emmanuel9633&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+</p>
 
-![](https://github-readme-stats.vercel.app/api?username=emmanuel9633&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=emmanuel9633&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=emmanuel9633&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Emmanuel9633&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="60%" />
+</p>
 
+## Current Projects
 
-
-
----
-
-## 🚀 Current Projects
-
-> *(Drop your project names and descriptions here — e.g., a SaaS app, portfolio, game, or open-source tool)*
-
-| Project | Description | Stack |
-|---|---|---|
-| 🔧 Project One | Brief description of what it does | Next.js, MongoDB, TailwindCSS |
-| 🎮 Project Two | Brief description of what it does | Unity, C# |
-| 📱 Project Three | Brief description of what it does | Flutter, Expo |
-
----
+| Project | Description | Stack | Link |
+|---|---|---|---|
+| Teeworld Player Stats Bot | A Discord bot that fetches and displays live player statistics for Teeworlds | Node.js, Discord.js, Express | [BuiltByBit](https://builtbybit.com/creators/xavuren.592272) |
+| Stackvio | Co-founding a tech company — currently building the website from the ground up | Next.js, TailwindCSS | Coming Soon |
 
 <p align="center">
   <em>"Ship it, then improve it."</em>
