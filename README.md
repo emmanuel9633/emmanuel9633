@@ -75,14 +75,9 @@ I'm a passionate developer who loves building clean, performant web experiences 
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Emmanuel9633&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Emmanuel's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emmanuel9633&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
-</p>
+![](https://github-profile-trophy.vercel.app/?username=emmanuel9633&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Emmanuel9633&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="60%" />
-</p>
+
 
 ---
 
